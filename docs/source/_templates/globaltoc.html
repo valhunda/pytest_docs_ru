@@ -1,0 +1,16 @@
+<h1><a href="{{ pathto(master_doc) }}">{{ _('pytest') }}</a></h1>
+
+<ul>
+  <li><a href="{{ pathto('index') }}">Что такое pytest</a></li>
+  <li><a href="{{ pathto('getting-started') }}">Установка</a></li>
+  <li><a href="{{ pathto('contents') }}">Содержание</a></li>
+  <li><a href="{{ pathto('example/index') }}">Примеры</a></li>
+  <li><a href="{{ pathto('customize') }}">Конфигурирование</a></li>
+  <li><a href="{{ pathto('license') }}">Лицензия</a></li>
+</ul>
+
+{%- if display_toc %}
+  <hr>
+  {{ toc }}
+{%- endif %}
+
