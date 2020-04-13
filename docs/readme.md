@@ -14,13 +14,13 @@
 • Уточнения и замечания приветствуются (на issues проекта).
 
 
-Notice
+***Notice***
 
-• Fork from https://github.com/pytest-dev/pytest and extract the /doc/en part. All rights reserved to pytest-dev team.
+• *Fork from https://github.com/pytest-dev/pytest and extract the /doc/en part. All rights reserved to pytest-dev team.*
 
-• Is in the process of being translated
+• *Is in the process of being translated*
 
-• Glad to see advise or issue.
+• *Glad to see advise or issue.*
 
 
 
