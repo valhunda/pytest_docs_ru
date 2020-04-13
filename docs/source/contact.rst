@@ -6,5 +6,5 @@
 
 Раздел находится в разработке.
 
-См. `Contact Channels <https://docs.pytest.org/en/latest/contact.html#contact>`_
+См. `<https://docs.pytest.org/en/latest/contact.html#contact>`_
 
